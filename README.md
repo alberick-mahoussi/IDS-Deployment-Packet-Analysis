@@ -9,6 +9,7 @@
 > Ce projet a été réalisé selon une optique de recherche personnel et d'auto-apprentissage.
 > Les attaques simulées doivent uniquement être exécutées dans un environnement **isolé et contrôlé**.
 > L'utilisation de ces techniques sur des systèmes sans autorisation explicite est **illégale**.
+> L'auteur du projet ne sera pas responsable de son utilisation abusif
 
 ---
 
